@@ -20,6 +20,7 @@ Host my slides: devops, kubernetes, life, etc
 - [[https://github.com/dennyzhang/my-slides/blob/master/VMware-PKS-Observability.pdf][VMware-PKS-Observability]]: Enterprise Kubernetes Logging & Monitoring. KubeCon Shanghai 2018
 - [[https://github.com/dennyzhang/my-slides/blob/master/DevOps-Carol.pdf][DevOps-Carol]]: DevOps Practice In Carol Project. TOTVSLabs 2017
 - [[https://github.com/dennyzhang/my-slides/blob/master/Build-Knowledgebase.pdf][Build-Knowledgebase]]: Track your knowledge, track your life. UnitedStack 2013
+- [[https://github.com/dennyzhang/my-slides/blob/master/Test-Cloud-Platform.pdf][Test-Cloud-Platform]]: How to test cloud platform. 51CTO 2012
 
 ** More Resources
  License: Code is licensed under [[https://www.dennyzhang.com/wp-content/mit_license.txt][MIT License]].
